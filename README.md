@@ -10,6 +10,7 @@
 * Display: 1.69" LCD display communicating via 4-wire SPI
 
 
+<img width="1411" height="1155" alt="block_diagram drawio" src="https://github.com/user-attachments/assets/2c63ef96-fa5c-4c8b-8c80-daff45bedf2d" />
 <img width="1035" height="682" alt="Screenshot 2025-09-01 at 10 44 36 PM" src="https://github.com/user-attachments/assets/eb7d86e7-915f-4189-b6e1-eca0072f06fb" />
 <img width="1039" height="1037" alt="Screenshot 2025-09-01 at 11 04 22 PM" src="https://github.com/user-attachments/assets/781c8632-a022-4bcf-8236-6a2bc2d2a830" />
 <img width="1035" height="1017" alt="Screenshot 2025-09-01 at 11 03 02 PM" src="https://github.com/user-attachments/assets/53bc9d01-d4e0-47bf-9b12-95f9eddab725" />
